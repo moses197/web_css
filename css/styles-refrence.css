@@ -1,0 +1,119 @@
+body {
+    /*background: url("/images/dog.jpg");*/
+    /*background: rgba(104, 142, 216, 0.4);*/
+    text-transform: uppercase;
+    text-align: justify;
+    background: linear-gradient(146deg, rgb(30, 94, 43), rgba(114, 231, 4, 0.5))
+}
+
+
+#title {
+    color: rgb(186, 133, 9)
+}
+
+.subtitle {
+    color: rgb(219, 168, 50);
+}
+
+/*
+#img {
+    height: 100px;
+    width: 200px;
+    border: 1px solid black;
+}
+*/
+#service-image {
+    height: 200px;
+    width: 400px;
+
+    /*background: linear-gradient(146deg, rgb(30, 94, 43), rgba(114, 231, 4, 0.5));*/
+    background: radial-gradient(circle, red 10%, blue 20%, green);
+    /*background: url("/images/world-blue.jpg");*/
+    background-size: contain;
+    /*background-repeat: no-repeat;*/
+    /*background-color: steelblue;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+body {
+    background-color: aqua;
+}
+
+.title {
+    color: blueviolet;
+}
+
+.subtitle {
+    color: goldenrod;
+}
+
+p + a {  
+    color: red;
+}
+
+textarea ~ button { 
+    border: 1px chocolate solid;
+    color: purple;
+}
+
+ul > li {
+    color:burlywood;
+}
+
+ul ol {
+    color: black;
+}
+
+img[src^="/images/"] {
+    border: 6px solid burlywood;
+}
+
+h2[class~=article-subtitle] {
+    background-color: dimgray;
+}
+*/
+/* this is Attached to the upper comment 
+.bdy:hover {
+    background-color: blanchedalmond;
+}
+*/
+
+/*
+li:nth-child(3) {
+    color: brown;
+}
+
+#google-link:link {
+    color: azure;
+}
+
+#google-link:visited {
+    color: burlywood;
+}
+*/
+
+/*
+h2[class|=article-subtitle] {
+    background-color: dimgray;
+}
+*/
+
+/* only-child
+first-child
+last-child
+nth-child*/
